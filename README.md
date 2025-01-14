@@ -1,8 +1,30 @@
-# React + Vite
+This is a Contact App using React-Redux-Toolkit.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Programming Language: Javascript
 
-Currently, two official plugins are available:
+Used Libraries and frameworks:
+  1. React
+  2. React Router Dom
+  3. React Redux Toolkit
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+This is the homepage where initial state will be viewd:
+<img src="./images/1.png"/>
+
+This is create new contact page:
+<img src="./images/2.png"/>
+
+This page is after create new contact:
+<img src="./images/3.png"/>
+
+This page is for edit/update contact:
+<img src="./images/4.png"/>
+
+This page is after update contact:
+<img src="./images/5.png"/>
+
+This page shows how to delete contact:
+<img src="./images/5.png"/>
+
+This is after delete a contact:
+<img src="./images/6.png"/>
